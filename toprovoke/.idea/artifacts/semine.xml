@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="semine">
+    <output-path>$PROJECT_DIR$/out/artifacts/semine</output-path>
+    <root id="archive" name="semine.war">
+      <element id="artifact" artifact-name="Gradle : toprovoke : toprovoke-1.0-SNAPSHOT.war (exploded)" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="toprovoke_main" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

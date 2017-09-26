@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toprovoke.iml" filepath="$PROJECT_DIR$/.idea/modules/toprovoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toprovoke_main.iml" filepath="$PROJECT_DIR$/.idea/modules/toprovoke_main.iml" group="toprovoke" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toprovoke_test.iml" filepath="$PROJECT_DIR$/.idea/modules/toprovoke_test.iml" group="toprovoke" />
+    </modules>
+  </component>
+</project>
